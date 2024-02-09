@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ripul_handoo" target="blank"><img src="https://img.shields.io/twitter/follow/ripul_handoo?logo=twitter&style=for-the-badge" alt="ripul_handoo" /></a> </p>
 
-- 📫 How to reach me **ripulhandoo1234@gmal.com**
+- 📫 How to reach me **ripulhandoo1234@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
